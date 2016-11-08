@@ -1,0 +1,22 @@
+body { background: seashell; 
+		color: darkred;
+		font-size: 14pt; 
+		font-family: arial }
+		
+h1 { font-size: 200%;
+		font-weight: bold;
+		text-decoration: underline;
+		text-align: center }		
+		
+a { color: purple }
+	
+a:hover { color: blue }		
+
+p2 {font-size: 9pt }
+
+h2 {font-size: 18pt;
+	font-weight: bold;
+	text-align: center }
+	
+IMG { float: right }		
+
